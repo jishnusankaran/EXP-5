@@ -81,3 +81,4 @@ contract ZKVoting {
 
 ![alt text](<Screenshot 2025-04-23 093532.png>)
 # RESULT: 
+The Experiment have been successfully verified
